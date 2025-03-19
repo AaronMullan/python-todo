@@ -17,7 +17,7 @@ app = FastAPI(
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Allow HTTP localhost
+    allow_origins=["http://localhost:3000", "https://next-todo-eight-taupe.vercel.app/"],  # Allow HTTP localhost
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
