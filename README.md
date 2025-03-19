@@ -2,7 +2,9 @@
 
 A simple FastAPI backend for a Todo application, made with Cursor.
 
-Deployed at: https://valiant-communication-production.up.railway.app/docs
+Deployed at: [https://valiant-communication-production.up.railway.app/docs](https://valiant-communication-production.up.railway.app/docs)
+
+Frontend repo: [https://github.com/AaronMullan/next-todo](https://github.com/AaronMullan/next-todo)
 
 ## Setup
 
