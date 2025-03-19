@@ -1,6 +1,6 @@
-# FastAPI Playground
+# FastAPI TODO
 
-A simple FastAPI application for learning and experimentation.
+A simple FastAPI backend for a Todo application, made with Cursor.
 
 ## Setup
 
