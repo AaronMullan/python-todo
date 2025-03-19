@@ -11,4 +11,7 @@ healthcheckTimeout = 100
 interval = "10s"
 timeout = "5s"
 retries = 3
-startPeriod = "30s" 
+startPeriod = "30s"
+
+[deploy.domain]
+name = "loving-adaptation.up.railway.app" 
