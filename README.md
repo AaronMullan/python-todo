@@ -2,6 +2,8 @@
 
 A simple FastAPI backend for a Todo application, made with Cursor.
 
+Deployed at: https://valiant-communication-production.up.railway.app/docs
+
 ## Setup
 
 1. Make sure you have Python 3.8+ installed
